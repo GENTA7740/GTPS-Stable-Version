@@ -1,6 +1,7 @@
 Feature :
 
 📌 [ BETA ] Growscan
+
 📌 [ BETA ] Drop item
 📌 [ BETA ] Better Anti cheat & Anti Spam ( who use modified client / Trying Hacking / Trying Autofarming / Trying Multibotting, their ip will be exposed on discord server )
 📌 [ WIP ] Improve GTNoobs Source, clean the code and fix all warning
