@@ -34,10 +34,11 @@ Feature :
 
 📌 [ DONE ] Shattering DL To WL, WL to DL
 
+📌 [ DONE ] Timestamp Like Real GT
+
+📌 [ BETA ] Leveling System
+
 Bug :
-
-📌 Player Registration & Login ( Guess Account work fine with Random number like Real Growtopia server )
-
 
 Coming Soon :
 
